@@ -2,5 +2,5 @@
 
 ## Requirements
 ## -PyWavelets
-## -opencv-python
+## -Opencv Haar Cascades: https://pyimagesearch.com/2021/04/12/opencv-haar-cascades/
 ## -seaborn
